@@ -5,3 +5,5 @@ No UI interface at this point, this is a simple Python program that allows a use
 3. Random Activity Generator
 
 This program uses the boredom API to return activities to users. Users can choose to keep trying to get more activities or exit the program.
+## Program Details
+This program is just one Python file. It is divided into different methods:
